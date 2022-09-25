@@ -1,6 +1,7 @@
 # Employee-Control Case Study
 1 - Proje çalıştırıldığında, verilerin Codefirst yaklaşımı ile veritabanına kaydedilmesi sağlanır.
-
+  Proje çalıştırıldığında veritabanına 4 veri kaydedilir. id'ler 1'den 4'e kadardır.
+  
 2 - Create ekranında yeni veri eklenir.
 
 ![GOMCAM 20220925_2015290673](https://user-images.githubusercontent.com/32747222/192161887-bbe1f2f7-4a59-4bfc-8557-053464867d47.png)
