@@ -1,6 +1,7 @@
 # Employee-Control Case Study
 1 - Proje çalıştırıldığında, verilerin Codefirst yaklaşımı ile veritabanına kaydedilmesi sağlanır.
-  Proje çalıştırıldığında veritabanına 4 veri kaydedilir. id'ler 1'den 4'e kadardır.
+ 
+ Proje çalıştırıldığında veritabanına 4 veri kaydedilir. id'ler 1'den 4'e kadardır.
   
 2 - Create ekranında yeni veri eklenir.
 
