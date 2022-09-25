@@ -18,7 +18,7 @@ namespace CompanyEmployees.Controllers
         {
             return db.Employees.ToList();
         }
-        //api/user/2
+        //api/user/2 
         public Employee GetEmployee(int id)
         {
             return db.Employees.Find(id);
